@@ -6,7 +6,7 @@ Sistema de organização de tarefas e listas com Aplicação de Padrões de Proj
 
 Este projeto foi desenvolvido como parte da atividade "Padrões de Projeto - Parte 2", utilizando Python e incorporando quatro padrões de projeto estudados na plataforma Refactoring.Guru.
 
-A aplicação permite o usuário gerenciar tarefas de forma simples e eficiente, oferecendo recursos para criar notas individuais, criar listas de tarefas, adicionar e remover itens em listas, além de exportar e acompanhar eventos internos através dos padrões implementados.
+A aplicação permite o usuário gerenciar tarefas de forma simples e eficiente, oferecendo recursos para criar notas individuais, criar listas de tarefas, adicionar e remover tarefas em listas, além de exportar e acompanhar eventos internos através dos padrões implementados.
 
 ---
 
@@ -93,5 +93,6 @@ O arquivo `RESUMO.md` contém:
 
 ## Desenvolvedores  
 Projeto desenvolvido para fins acadêmicos na disciplina de Padrões e Arquitetura de Software.  
+
 
 
